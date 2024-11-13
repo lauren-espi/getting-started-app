@@ -1,2 +1,4 @@
-node_modules
-Dockerfile
+__pycache__
+*.pyc
+.git
+
